@@ -38,7 +38,9 @@ public class Employee {
     public String getGender() {
         return gender;
     }
-    public int getCompanyId() {return companyId; }
+    public int getCompanyId() {
+        return companyId;
+    }
     public int getSalary() {
         return salary;
     }
